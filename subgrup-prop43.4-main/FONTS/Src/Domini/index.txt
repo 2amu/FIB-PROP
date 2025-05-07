@@ -1,0 +1,5 @@
+Aquesta carpeta es divideix en subdirectoris que representen les classes per una banda, i els controladors per una altra.
+
+	->Classes (directori): El directori conte fitxers .java amb totes les classes de domini.
+
+	->Controladors (directori): El directori conte fitxers .java amb tots els controladors de la capa de domini.

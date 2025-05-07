@@ -1,0 +1,15 @@
+Aquesta carpeta conte fixtxers .java amb totes les vistes de presentacio:
+
+	->VistaAlfabet.java: El .java conte la implementacio de la vista VistaAlfabet.
+
+	->VistaEntrada.java: El .java conte la implementacio de la vista VistaEntrada.
+
+	->VistaLogin.java: El .java conte la implementacio de la vista VistaLogin.
+
+	->VistaPrincipal.java: El .java conte la implementacio de la vista VistaPrincipal.
+
+	->VistaSignIn.java: El .java conte la implementacio de la vista VistaSignIn.
+
+	->VistaTeclat.java: El .java conte la implementacio de la vista VistaTeclat.
+
+	->VistaUsuari.java: El .java conte la implementacio de la vista VistaUsuari.

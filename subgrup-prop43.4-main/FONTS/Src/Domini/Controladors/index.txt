@@ -1,0 +1,7 @@
+Aquesta carpeta conte fixtxers .java amb tots els controladors de la capa de domini.
+
+	->CtrlAlgorisme.java: El .java conte la implementacio del controlador CtrlAlgorisme.
+
+	->CtrlDomini.java: El .java conte la implementacio del controlador CtrlDomini.
+
+	->CtrlEntrada.java: El .java conte la implementacio del controlador CtrlEntrada.

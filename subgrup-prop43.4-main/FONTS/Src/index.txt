@@ -1,0 +1,11 @@
+Aquesta carpeta es divideix en subdirectoris que representen les capes, els tests i els drivers:
+
+	->Domini (directori): El directori conte totes les classes i controladors del model de domini.
+
+	->Drivers(directori): El directori conte els arxius .java corresponents als drivers de diverses classes.
+
+	->Persistencia (directori): El directori conte tots els arxius de la capa de persistencia.
+
+	->Presetnacio (directori): El directori conte tots els arxius de la capa de presentacio.
+
+	->Tests(directori): El directori conte els tests de cada una de les classes programades.

@@ -1,0 +1,3 @@
+Aquesta carpeta conte el controlador de persistencia:
+
+	->CtrlPersistencia.java: El .java conte la implementacio del controlador de persistencia.

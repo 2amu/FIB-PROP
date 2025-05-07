@@ -1,0 +1,11 @@
+Aquesta carpeta principal conte fitxers .txt i directoris, que separen les diferents parts de l'entrega:
+
+    ->DATA(directori): El directori conte els fitxers on es guarden les dades necessaries de cada usuari perque aquest no perdi el seu progres entre execucions.
+
+	->DOCS(directori): El directori conte els documents a entregar, sense cap codi: diagrama de casos d'us i la seva descripcio, diagrama estatic complet del model conceptual de dades i descripció dels atributs i metodes de cada classe, relacio de les classes implementades per membre de l'equip, i descripcio de les estructures de dades i algorismes utilitzats.
+
+	->EXE(directori): El directori conte els executables dels programes per provar les classes o funcionalitats implementades i els jocs d'assaig, amb les dades de cada un d'aquests i la seva descripcio.
+
+	->FONTS(directori): El directori conte totes les classes implementades i un makefile per compilar els drivers.
+
+	->Descripcio-equip.txt(fitxer de text): El fitxer conte la descripcio de l'equip amb els noms i correus electronics de cada component del grup.

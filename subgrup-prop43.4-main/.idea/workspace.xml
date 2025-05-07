@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d19e2721-3c07-4522-a58f-a5f13fb9b32e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/DOCS/ManualUsuari.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.txt" beforeDir="false" afterPath="$PROJECT_DIR$/index.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2XtdvcIHN7oA96y1ywhxFKqJF0d" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.CtrlPresentacio.executor": "Run",
+    "Application.VistaAlfabet.executor": "Run",
+    "Application.VistaLogin.executor": "Run",
+    "Application.VistaPrincipal.executor": "Run",
+    "Application.VistaSingIn.executor": "Run",
+    "Application.VistaTeclat.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
+    "JUnit.NetejadoraTest.executor": "Run",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "samuel",
+    "jdk.selected.JAVA_MODULE": "11",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/mateu/GitHub/subgrup-prop43.4/DOCS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/DOCS" />
+      <recent name="$PROJECT_DIR$/FONTS/Src/Tests" />
+      <recent name="$PROJECT_DIR$/FONTS/Lib" />
+      <recent name="$PROJECT_DIR$/FONTS/Src/Domini/Controladors" />
+      <recent name="$PROJECT_DIR$/FONTS/Src/Domini/Classes" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/DOCS" />
+      <recent name="$PROJECT_DIR$/DOCS/" />
+      <recent name="$PROJECT_DIR$/FONTS/Src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.CtrlPresentacio">
+    <configuration name="CtrlPresentacio" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Presentacio.Controladors.CtrlPresentacio" />
+      <module name="subgrup-prop43.4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Presentacio.Controladors.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VistaAlfabet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Presentacio.Vistes.VistaAlfabet" />
+      <module name="subgrup-prop43.4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Presentacio.Controladors.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VistaCreacioAlfabet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Presentacio.VistaCreacioAlfabet" />
+      <module name="subgrup-prop43.4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Presentacio.Controladors.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VistaLogin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Presentacio.Vistes.VistaLogin" />
+      <module name="subgrup-prop43.4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Presentacio.Controladors.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VistaPrincipal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Presentacio.Vistes.VistaPrincipal" />
+      <module name="subgrup-prop43.4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Presentacio.Controladors.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CtrlPresentacio" />
+        <item itemvalue="Application.VistaLogin" />
+        <item itemvalue="Application.VistaCreacioAlfabet" />
+        <item itemvalue="Application.VistaAlfabet" />
+        <item itemvalue="Application.VistaPrincipal" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-11.0.21-corretto-11.0.21-3183f394aec4-585ed96d" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d19e2721-3c07-4522-a58f-a5f13fb9b32e" name="Changes" comment="" />
+      <created>1699452543494</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1699452543494</updated>
+      <workItem from="1701197755585" duration="7718000" />
+      <workItem from="1701354081926" duration="7888000" />
+      <workItem from="1701602709528" duration="31117000" />
+      <workItem from="1702214770012" duration="13633000" />
+      <workItem from="1702296064617" duration="14150000" />
+      <workItem from="1702397286097" duration="2076000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="Makefile" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/FONTS/Src/Tests/LlistaParaulesTest.java</url>
+          <line>27</line>
+          <properties class="Tests.LlistaParaulesTest" method="testModificarOriginal">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/subgrup_prop43_4$VistaLogin.ic" NAME="VistaLogin Coverage Results" MODIFIED="1703252488956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Presentacio.Classes.*</FILTER>
+    </SUITE>
+  </component>
+</project>

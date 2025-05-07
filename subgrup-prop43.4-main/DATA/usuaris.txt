@@ -1,0 +1,4 @@
+samuel,Samuel1*, ,1.2, 
+Jose,Samuel1*, ,3, 
+rocio,Samuel1*, ,4, 
+Samuel1,Samuel1!,1.2.3,6,1.2

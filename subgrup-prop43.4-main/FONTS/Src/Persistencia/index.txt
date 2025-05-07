@@ -1,0 +1,5 @@
+Aquesta carpeta conte els codis de la capa de persistencia:
+
+	->Classes(directori): El directori conte el controlador de la capa de persistencia.
+
+	->Controladors(directori): El directori conte les classes de la capa de persistencia.

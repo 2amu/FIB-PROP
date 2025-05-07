@@ -1,0 +1,3 @@
+Aquesta carpeta conte el controlador de la capa de presentacio:
+
+    ->CtrlPresentacio.java: El .java conte la implementacio del controlador de presentacio.

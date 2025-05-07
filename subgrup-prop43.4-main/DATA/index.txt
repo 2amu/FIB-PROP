@@ -1,0 +1,11 @@
+Aquesta carpeta conte fitxers .txt on es guarden les dades del programa:
+
+    ->alfabets.txt(fitxer de text): El fitxer conte la informacio de tots els alfabets guardada en format csv.
+
+    ->entrades.txt(fitxer de text): El fitxer conte la informacio de totes les entrades guardada en format csv.
+
+    ->ids.txt(fitxer de text): El fitxer conte la informacio de quins seran els seguents ids a assignar.
+
+    ->teclats.txt(fitxer de text): El fitxer conte la informacio de tots els teclats guardada en format csv.
+
+    ->usuaris.txt(fitxer de text): El fitxer conte la informacio de tots els usuaris guardada en format csv.

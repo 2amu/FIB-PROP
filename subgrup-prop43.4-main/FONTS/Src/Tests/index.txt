@@ -1,0 +1,23 @@
+Aquesta carpeta conte els tests de cada una de les classes programades:
+
+	->TestAlfabet.java: El .java conte el test unitari per la classe Alfabet.
+
+	->TestAlgorisme.java: El .java conte el test unitari per la classe Algorisme.
+
+	->TestCollections.java: El .java conte el test unitari per la classe Collections.
+
+	->TestEntrada.java: El .java conte el test unitari per la classe Entrada.
+
+	->TestLlistaParaules.java: El .java conte el test unitari per la classe LlistaParaules.
+
+	->TestNetejadora.java: El .java conte el test unitari per la classe Netejadora.
+
+	->TestNode.java: El .java conte el test unitari per la classe Node.
+
+	->TestProcessadora.java: El .java conte el test unitari per la classe Processadora.
+
+	->TestTeclat.java: El .java conte el test unitari per la classe Teclat.
+
+	->TestText.java: El .java conte el test unitari per la classe Text.
+
+	->TestUsuari.java: El .java conte el test unitari per la classe Usuari.

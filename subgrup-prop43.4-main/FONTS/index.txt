@@ -1,0 +1,7 @@
+Aquesta carpeta conte, essencialment, el codi de les classes del projecte i les seves funcionalitats, aixi com un makefile per compilar. Esta dividida en diferents subdirectoris:
+
+	->Libs(directori): El directori conte les llibreries necessaries per al funcionament del programa.
+
+	->Src(directori): El directori conte tots els arxius .java que formen totes les classes i controladors implementats.
+
+	->Makefile(fitxer de text): El fitxer conte scripts per compilar el projecte i generar els executables.

@@ -1,0 +1,11 @@
+Aquesta carpeta conte les classes de la capa de persistencia:
+
+	->GestorAlfabet.java: El .java conte la implementacio del gestor d'alfabet de la capa de persistencia.
+
+	->GestorEntrada.java: El .java conte la implementacio del gestor d'entrada de la capa de persistencia.
+
+	->GestorIds.java: El .java conte la implementacio del gestor d'ids de la capa de persistencia.
+
+	->GestorTeclat.java: El .java conte la implementacio del gestor de telcat de la capa de persistencia.
+
+	->GestorUsuari.java: El .java conte la implementacio del gestor d'usuari de la capa de persistencia.

@@ -1,0 +1,21 @@
+Aquesta carpeta conte fitxers .pdf que conjunten la documentacio demanada:
+
+	->DescripcioClasses.pdf(document): El document explica de forma textual les diferents classes, descrivint els seus atributs i els seus metodes.
+
+	->DescripcioDiagramaCasosUs.pdf(document): El document descriu textualment els casos d'us implementats al projecte.
+
+	->DescripcioED+Algorismes.pdf(document): El document conte una descripcio i justificacio sobre les estructures de dades i algorismes utilitzats al projecte.
+
+	->DescripcioJocsProves.pdf(document): El document conte la descripcio de tots els jocs de prova creats.
+
+	->DiagramaCasosUs.pdf(document): El document te una imatge que mostra el diagrama de casos d'us que segueix el sistema.
+
+	->DiagramaClassesDomini.pdf(document): El document te una imatge amb el diagrama de classes de domini.
+
+	->DiagramaClassesPersistencia.pdf(document): El document te una imatge amb el diagrama de classes de persistencia.
+
+	->DiagramaClassesPresentacio.pdf(document): El document te una imatge amb el diagrama de classes de presentacio.
+
+	->ManualUsuari.pdf(document): El document conte una guia per l'usuari per a que aprengui a utilitzar l'aplicacio i descobreixi les seves funcionalitats.
+
+    ->RelacioClassesPerMembre.pdf(document): El document conte informacio sobre quin membre de grup ha implementat cada classe.

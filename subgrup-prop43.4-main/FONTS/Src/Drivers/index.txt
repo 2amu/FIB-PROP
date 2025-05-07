@@ -1,0 +1,9 @@
+Aquesta carpeta conte el codi dels Drivers dels controladors que proporcionen alguna funcionalitat principal del sistema:
+
+	->DriverCtrlAlgorisme.java: El .java conte el codi del driver de la funcionalitat principal del sistema.
+
+	->DriverCtrlDomini.java: El .java conte el codi del driver que simula tot el programa en la capa de domini.
+
+	->DriverCtrlPersistencia.java: El .java conte el codi del driver que simula tot el programa en la capa de persistencia.
+
+	->DriverCtrlPresentacio.java: El .java conte el codi del driver que simula tot el programa ja en forma visual.

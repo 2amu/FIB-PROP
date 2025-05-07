@@ -1,0 +1,25 @@
+Aquesta carpeta conte fixtxers .java amb totes les classes de domini.
+
+	->Alfabet.java: El .java conte la implementacio de la classe Alfabet.
+
+	->Collections.java: El .java conte la implementacio de la classe Collections.
+
+	->Entrada.java: El .java conte la implementacio de la classe Entrada.
+
+	->LlistaParaules.java: El .java conte la implementacio de la classe LlistaParaules.
+
+	->Netejadora.java: El .java conte la implementacio de la classe Netejadora.
+
+	->Node.java: El .java conte la implementacio de la classe Node.
+
+	->Processadora.java: El .java conte la implementacio de la classe Processadora.
+
+	->QAP.java: El .java conte la implementacio de la classe QAP.
+
+	->SimulatedAnnealing.java: El .java conte la implementacio de la classe SimulatedAnnealing.
+
+	->Teclat.java: El .java conte la implementacio de la classe Teclat.
+
+	->Text.java: El .java conte la implementacio de la classe Text.
+
+	->Usuari.java: El .java conte la implementacio de la classe Usuari.
